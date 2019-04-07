@@ -12,6 +12,7 @@ import argparse
 # Blank line
 import otrher_packages
 
+Developer = 'Developer name'
 
 # The naming of functions must be in lowercase, with _ between words as spaces.
 def function_1():
