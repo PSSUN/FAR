@@ -3,7 +3,7 @@ import argparse
 from Bio import SeqIO
 import random
 
-Developer = 'PSSUN'
+Developer = 'PeiSen Sun'
 
 def main():
     parse = argparse.ArgumentParser(description='Shuffle fastq file into random parts')
