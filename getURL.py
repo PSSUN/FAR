@@ -22,7 +22,7 @@ def readfile(file):
 
 
 def writefile(x):
-    f1 = open('result.csv', 'w+')
+    f1 = open('result.sh', 'w+')
     for i in x:
         f1.write(i)
         f1.write('\n')
